@@ -11,7 +11,7 @@ body{
 
 
 .container{
-    border: 4px solid blue;
+    
     height: 100vh;
     background-color: hsl(27, 66%, 92%);
     display: flex;
@@ -111,6 +111,9 @@ p{
 }
 .right{
     margin-top: 15px;
+}
+.right span{
+    margin-left: 45px;
 }
 h5{
     margin-left: 75px;
